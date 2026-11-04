@@ -1,2 +1,3 @@
 # apnacollege-demo
-this is my first repository
+This is my First Git Repository.
+Author- Srajan Agrawal
